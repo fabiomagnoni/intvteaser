@@ -1,0 +1,4009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.band.com.br/</title>
+  <link>http://www.band.com.br/</link>
+
+<item>
+     <link>http://www.band.com.br/</link>
+     <title>eBand</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/</link>
+     <title>eBand | Jornalismo</title>
+     <description>Acompanhe as Últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/</link>
+     <title>eBand | Esporte</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/</link>
+     <title>eBand | Entretenimento</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/</link>
+     <title>eBand | Jornalismo | Brasil</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/</link>
+     <title>eBand | Jornalismo | Mundo</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/</link>
+     <title>eBand | Jornalismo | Economia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/</link>
+     <title>eBand | Jornalismo | Cidades</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/</link>
+     <title>eBand | Esporte | Brasileir&atilde;o 2009</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/</link>
+     <title>eBand | Esporte | Copa 2010</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/</link>
+     <title>eBand | Esporte | Fórmula Indy</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/</link>
+     <title>eBand | Entrenimento | Celebridades</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/tv/</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161457</link>
+     <title>eBand | Jornalismo | Economia | Desemprego na zona do euro atinge maior taxa em dez anos</title>
+     <description>Desemprego na zona do euro atinge maior taxa em dez anos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161494</link>
+     <title>eBand | Jornalismo | Economia | Premiê japonês diz que irá tirar país da recessão até 2011</title>
+     <description>Premiê japonês diz que irá tirar país da recessão até 2011</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161509</link>
+     <title>eBand | Jornalismo | Economia | Empresas de telefonia preferem pagar multas, dizem especialistas</title>
+     <description>Empresas de telefonia preferem pagar multas, dizem especialistas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161471</link>
+     <title>eBand | Jornalismo | Brasil | Governo aumenta o valor do Bolsa Família para R$ 68</title>
+     <description>Governo aumenta o valor do Bolsa Família para R$ 68</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161330</link>
+     <title>eBand | Entrenimento | Celebridades | Parque da Mônica pode ficar em shopping até abril de 2010</title>
+     <description>Parque da Mônica pode ficar em shopping até abril de 2010</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161218</link>
+     <title>eBand | Entrenimento | Celebridades | Mãe de Michael Jackson ganha custódia definitiva dos netos</title>
+     <description>Mãe de Michael Jackson ganha custódia definitiva dos netos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161358</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Alexandre Gallo é o novo técnico do Santo André</title>
+     <description>Alexandre Gallo é o novo técnico do Santo André</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=161378</link>
+     <title>eBand | Esporte | Outros Esportes | Campeão do Rally dos Sertões, Cristiano Batista visa o Brasileiro</title>
+     <description>Campeão do Rally dos Sertões, Cristiano Batista visa o Brasileiro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161360</link>
+     <title>eBand | Entrenimento | Celebridades | Gisele Bündchen exibe gravidez em praia nos EUA</title>
+     <description>Gisele Bündchen exibe gravidez em praia nos EUA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161517</link>
+     <title>eBand | Jornalismo | Economia | Economia americana recua pela quarta vez e cai 1%</title>
+     <description>Economia americana recua pela quarta vez e cai 1%</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=161520</link>
+     <title>eBand | Esporte | Tênis | Thomaz Bellucci também avança à semifinal em Gstaad</title>
+     <description>Thomaz Bellucci também avança à semifinal em Gstaad</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161518</link>
+     <title>eBand | Jornalismo | Brasil | PSDB decide terça-feira se denuncia Renan por quebra de decoro</title>
+     <description>PSDB decide terça-feira se denuncia Renan por quebra de decoro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161514</link>
+     <title>eBand | Entrenimento | Celebridades | Modelo Samantha Burke é a mãe do filho de Jude Law  </title>
+     <description>Modelo Samantha Burke é a mãe do filho de Jude Law  </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=161513</link>
+     <title>eBand | Esporte | Tênis | Dupla Melo/Sá enfrenta irmãos Bryan no ATP de Los Angeles</title>
+     <description>Dupla Melo/Sá enfrenta irmãos Bryan no ATP de Los Angeles</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161512</link>
+     <title>eBand | Jornalismo | Brasil | Cota de passagens do deputado Sérgio Moraes pode ter sido negociada</title>
+     <description>Cota de passagens do deputado Sérgio Moraes pode ter sido negociada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161510</link>
+     <title>eBand | Entrenimento | Celebridades | Mãe de aluguel dos filhos de Sarah Jessica Parker tem casa invadida </title>
+     <description>Mãe de aluguel dos filhos de Sarah Jessica Parker tem casa invadida </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161502</link>
+     <title>eBand | Jornalismo | Cidades | SP tem aumento de 36% nos casos de latrocínio</title>
+     <description>SP tem aumento de 36% nos casos de latrocínio</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161505</link>
+     <title>eBand | Jornalismo | Tecnologia | Game traz mini-piano e clássicos do rock ao Nintendo DS</title>
+     <description>Game traz mini-piano e clássicos do rock ao Nintendo DS</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galerias.asp</link>
+     <title>eBand | Jornalismo | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infograficos.asp</link>
+     <title>eBand | Jornalismo | Infogr&aacute;ficos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/boatarde/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/brasilurgente/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/canallivre/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/e24/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldaband/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldanoite/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/primeirojornal/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/spacontece/sobre.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161277</link>
+     <title>eBand | Jornalismo | Cidades | Ex-mulher do boxeador Arturo Gatti é solta em Pernambuco</title>
+     <description>Ex-mulher do boxeador Arturo Gatti é solta em Pernambuco</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161518</link>
+     <title>eBand | Jornalismo | PSDB decide terça-feira se denuncia Renan por quebra de decoro</title>
+     <description>PSDB decide terça-feira se denuncia Renan por quebra de decoro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161512</link>
+     <title>eBand | Jornalismo | Cota de passagens do deputado Sérgio Moraes pode ter sido negociada</title>
+     <description>Cota de passagens do deputado Sérgio Moraes pode ter sido negociada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161509</link>
+     <title>eBand | Jornalismo | Empresas de telefonia preferem pagar multas, dizem especialistas</title>
+     <description>Empresas de telefonia preferem pagar multas, dizem especialistas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161502</link>
+     <title>eBand | Jornalismo | SP tem aumento de 36% nos casos de latrocínio</title>
+     <description>SP tem aumento de 36% nos casos de latrocínio</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161505</link>
+     <title>eBand | Jornalismo | Game traz mini-piano e clássicos do rock ao Nintendo DS</title>
+     <description>Game traz mini-piano e clássicos do rock ao Nintendo DS</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161494</link>
+     <title>eBand | Jornalismo | Premiê japonês diz que irá tirar país da recessão até 2011</title>
+     <description>Premiê japonês diz que irá tirar país da recessão até 2011</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161498</link>
+     <title>eBand | Jornalismo | Reforma eleitoral poderia anistiar 51 mil candidatos das eleições 2008</title>
+     <description>Reforma eleitoral poderia anistiar 51 mil candidatos das eleições 2008</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161499</link>
+     <title>eBand | Jornalismo | Ações do ETA já deixaram 826 mortos </title>
+     <description>Ações do ETA já deixaram 826 mortos </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161490</link>
+     <title>eBand | Jornalismo | Super hacker inglês perde outro recurso contra extradição para EUA</title>
+     <description>Super hacker inglês perde outro recurso contra extradição para EUA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161306</link>
+     <title>eBand | Jornalismo | Tecnologia | iPhone 3G S é homologado pela Anatel para venda no Brasil</title>
+     <description>iPhone 3G S é homologado pela Anatel para venda no Brasil</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161348</link>
+     <title>eBand | Jornalismo | Economia | Vivo e Claro contestam Procon e podem recorrer de multa por SAC</title>
+     <description>Vivo e Claro contestam Procon e podem recorrer de multa por SAC</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161292</link>
+     <title>eBand | Jornalismo | Brasil | ´´Permanência de Sarney não é problema meu``, diz Lula</title>
+     <description>´´Permanência de Sarney não é problema meu``, diz Lula</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161317</link>
+     <title>eBand | Jornalismo | Brasil | ´´Brasil está preparado para ter uma presidenta``, diz Dilma</title>
+     <description>´´Brasil está preparado para ter uma presidenta``, diz Dilma</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/</link>
+     <title>eBand | Esporte | Futebol Internacional</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/</link>
+     <title>eBand | Esporte | Libertadores</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/</link>
+     <title>eBand | Esporte | Copa 2010</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/</link>
+     <title>eBand | Esporte | Fórmula 1</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/</link>
+     <title>eBand | Esporte | Tênis</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/basquete/</link>
+     <title>eBand | Esporte | Basquete</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/volei/</link>
+     <title>eBand | Esporte | Vôlei</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/olimpico/</link>
+     <title>eBand | Esporte | Olímpico</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros%2Desportes/</link>
+     <title>eBand | Esporte | Outros Esportes</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/galerias.asp</link>
+     <title>eBand | Esporte | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/clube/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jogoaberto/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/terceirotempo/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=161463</link>
+     <title>eBand | Esporte | Fórmula 1 | Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</title>
+     <description>Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161331</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Essa é melhor fase da minha carreira, diz Diego Souza</title>
+     <description>Essa é melhor fase da minha carreira, diz Diego Souza</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161520</link>
+     <title>eBand | Esporte | Thomaz Bellucci também avança à semifinal em Gstaad</title>
+     <description>Thomaz Bellucci também avança à semifinal em Gstaad</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161513</link>
+     <title>eBand | Esporte | Dupla Melo/Sá enfrenta irmãos Bryan no ATP de Los Angeles</title>
+     <description>Dupla Melo/Sá enfrenta irmãos Bryan no ATP de Los Angeles</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161506</link>
+     <title>eBand | Esporte | Médico diz que Massa voltará ao Brasil na segunda em jato particular</title>
+     <description>Médico diz que Massa voltará ao Brasil na segunda em jato particular</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161493</link>
+     <title>eBand | Esporte | Marcos Daniel passa por francês e está na semifinal na Suíça</title>
+     <description>Marcos Daniel passa por francês e está na semifinal na Suíça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161479</link>
+     <title>eBand | Esporte | Técnico Péricles Chamusca substitui Leão no Sport</title>
+     <description>Técnico Péricles Chamusca substitui Leão no Sport</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161463</link>
+     <title>eBand | Esporte | Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</title>
+     <description>Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161448</link>
+     <title>eBand | Esporte | Phelps fica em segundo, mas está na semi dos 100m borboleta</title>
+     <description>Phelps fica em segundo, mas está na semi dos 100m borboleta</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161444</link>
+     <title>eBand | Esporte | Após ouro, Cielo bate recorde nos 50 m livre e está na semifinal</title>
+     <description>Após ouro, Cielo bate recorde nos 50 m livre e está na semifinal</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161406</link>
+     <title>eBand | Esporte | Massa deve voltar ao Brasil no domingo</title>
+     <description>Massa deve voltar ao Brasil no domingo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=161401</link>
+     <title>eBand | Esporte | Avaí goleia Vitória e chega ao quinto triunfo consecutivo</title>
+     <description>Avaí goleia Vitória e chega ao quinto triunfo consecutivo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudos.asp</link>
+     <title>eBand | Esporte | Tênis | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161479</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Técnico Péricles Chamusca substitui Leão no Sport</title>
+     <description>Técnico Péricles Chamusca substitui Leão no Sport</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161318</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Santos tem direito a R$ 2,7 mi pelas negociações de Elano e de Diego</title>
+     <description>Santos tem direito a R$ 2,7 mi pelas negociações de Elano e de Diego</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=161366</link>
+     <title>eBand | Esporte | Outros Esportes | Sandro Dias se diz confiante para a prova de Vert nos X Games 15</title>
+     <description>Sandro Dias se diz confiante para a prova de Vert nos X Games 15</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/olimpico/conteudo.asp?ID=161211</link>
+     <title>eBand | Esporte | Olímpico | Thiago Pereira fica sem medalha no Mundial por nove centésimos</title>
+     <description>Thiago Pereira fica sem medalha no Mundial por nove centésimos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=161272</link>
+     <title>eBand | Esporte | Tênis | Bellucci vence e se garante nas quartas de final em torneio na Suíça</title>
+     <description>Bellucci vence e se garante nas quartas de final em torneio na Suíça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/olimpico/conteudo.asp?ID=160991</link>
+     <title>eBand | Esporte | Olímpico | Daiane dos Santos e Lais Souza treinam forte em Guarulhos</title>
+     <description>Daiane dos Santos e Lais Souza treinam forte em Guarulhos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=161493</link>
+     <title>eBand | Esporte | Tênis | Marcos Daniel passa por francês e está na semifinal na Suíça</title>
+     <description>Marcos Daniel passa por francês e está na semifinal na Suíça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/olimpico/conteudo.asp?ID=161008</link>
+     <title>eBand | Esporte | Olímpico | Pega no antidoping, Lucimar Teodoro está fora do Mundial de Berlim</title>
+     <description>Pega no antidoping, Lucimar Teodoro está fora do Mundial de Berlim</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=160778</link>
+     <title>eBand | Esporte | Fórmula 1 | BMW anuncia a saída da Fórmula 1 no final da temporada</title>
+     <description>BMW anuncia a saída da Fórmula 1 no final da temporada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/classificacao-brasileirao-2009-serie-a.asp</link>
+     <title>eBand | Esporte | Brasileir&atilde;o | Classifica&ccedil;&atilde;o</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/tabela-brasileirao-2009-serie-a.asp</link>
+     <title>eBand | Esporte | Brasileir&atilde;o | Tabela de Jogos e Resultados</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/classificacao.asp</link>
+     <title>eBand | Esporte | Fórmula Indy | Classificação</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/calendario.asp</link>
+     <title>eBand | Esporte | Fórmula Indy | Calendário</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/cinema/</link>
+     <title>eBand | Entretenimento | Cinema</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/musica/</link>
+     <title>eBand | Entrenimento | Música</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galerias.asp</link>
+     <title>eBand | Entretenimento | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/tv/</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/cineband/sobre.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/cineprive/sobre.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/cqc/</link>
+     <title>CQC - Custe O Que Custar</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/diadia/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/domingonocinema/sobre.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/marcia/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/nocoracaodobrasil/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/programaraulgil/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/showbussines/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/todasexta/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/topcine/sobre.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/escolinha/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161514</link>
+     <title>eBand | Entretenimento | Modelo Samantha Burke é a mãe do filho de Jude Law  </title>
+     <description>Modelo Samantha Burke é a mãe do filho de Jude Law  </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161510</link>
+     <title>eBand | Entretenimento | Mãe de aluguel dos filhos de Sarah Jessica Parker tem casa invadida </title>
+     <description>Mãe de aluguel dos filhos de Sarah Jessica Parker tem casa invadida </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161507</link>
+     <title>eBand | Entretenimento | Novos integrantes entrarão na banda Panic At The Disco!</title>
+     <description>Novos integrantes entrarão na banda Panic At The Disco!</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161500</link>
+     <title>eBand | Entretenimento | Joe Jackson confirma que Rapper é filho secreto do rei do pop </title>
+     <description>Joe Jackson confirma que Rapper é filho secreto do rei do pop </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161495</link>
+     <title>eBand | Entretenimento | Cerimônia do Emmy será mais rápida e dinâmica</title>
+     <description>Cerimônia do Emmy será mais rápida e dinâmica</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161486</link>
+     <title>eBand | Entretenimento | Men At Work é acusado de plágio depois de 26 anos</title>
+     <description>Men At Work é acusado de plágio depois de 26 anos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161475</link>
+     <title>eBand | Entretenimento | The Killers confirma show no Brasil em novembro</title>
+     <description>The Killers confirma show no Brasil em novembro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161372</link>
+     <title>eBand | Entretenimento | Estreia: Filme traz novidades e entrevistas inéditas de Kurt Cobain</title>
+     <description>Estreia: Filme traz novidades e entrevistas inéditas de Kurt Cobain</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161377</link>
+     <title>eBand | Entretenimento | Estreia: À Deriva traz as frágeis relações dentro de uma família</title>
+     <description>Estreia: À Deriva traz as frágeis relações dentro de uma família</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=161380</link>
+     <title>eBand | Entretenimento | Estreia: Novo ´Efeito Borboleta` busca sucesso de primeiro filme</title>
+     <description>Estreia: Novo ´Efeito Borboleta` busca sucesso de primeiro filme</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudos.asp</link>
+     <title>eBand | Entretenimento | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161220</link>
+     <title>eBand | Entrenimento | Celebridades | Cléo Cadillac está grávida de ex-jogador de futebol da Seleção </title>
+     <description>Cléo Cadillac está grávida de ex-jogador de futebol da Seleção </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/musica/conteudo.asp?ID=161299</link>
+     <title>eBand | Entrenimento | Música | Ingressos para show de Tony Bennett começam a ser vendidos em SP</title>
+     <description>Ingressos para show de Tony Bennett começam a ser vendidos em SP</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161290</link>
+     <title>eBand | Entrenimento | Celebridades | Exame de DNA prova que Maradona não é pai de uma menina</title>
+     <description>Exame de DNA prova que Maradona não é pai de uma menina</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161498</link>
+     <title>eBand | Jornalismo | Brasil | Reforma eleitoral poderia anistiar 51 mil candidatos das eleições 2008</title>
+     <description>Reforma eleitoral poderia anistiar 51 mil candidatos das eleições 2008</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161461</link>
+     <title>eBand | Jornalismo | Brasil | Desmatamento na Amazônica caiu 75% em relação a 2008, diz ONG</title>
+     <description>Desmatamento na Amazônica caiu 75% em relação a 2008, diz ONG</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161451</link>
+     <title>eBand | Jornalismo | Brasil | Lugo compara acordo com Brasil a devolução do Canal do Panamá</title>
+     <description>Lugo compara acordo com Brasil a devolução do Canal do Panamá</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161375</link>
+     <title>eBand | Jornalismo | Brasil | Severino Cavalcanti sai da UTI e permanece internado em São Paulo</title>
+     <description>Severino Cavalcanti sai da UTI e permanece internado em São Paulo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161339</link>
+     <title>eBand | Jornalismo | Brasil | Governo quer dissociar Sarney da CPI da Petrobras</title>
+     <description>Governo quer dissociar Sarney da CPI da Petrobras</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudos.asp</link>
+     <title>eBand | Jornalismo | Brasil | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/galerias.asp</link>
+     <title>eBand | Jornalismo | Brasil | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2026</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Aconteceu: 20/07 a 24/07 </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/galeria.asp?ID=2023</link>
+     <title>eBand | Jornalismo | Brasil | Galeria de Fotos | Veja as principais denúncias relacionadas ao presidente do Senado, José Sarney </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/galeria.asp?ID=1981</link>
+     <title>eBand | Jornalismo | Brasil | Galeria de Fotos | Veja os principais fatos e denúncias que envolvem o Senado  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=169&amp;ref=pdt&amp;cnl=jornalismo</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161491</link>
+     <title>eBand | Jornalismo | Mundo | ETA faz 50 anos e Espanha entra em alerta máximo</title>
+     <description>ETA faz 50 anos e Espanha entra em alerta máximo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161473</link>
+     <title>eBand | Jornalismo | Mundo | Taça da época de Jesus com inscrição misteriosa é descoberta em Jerusalém</title>
+     <description>Taça da época de Jesus com inscrição misteriosa é descoberta em Jerusalém</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161460</link>
+     <title>eBand | Jornalismo | Mundo | Cruzeiro de luxo registra 60 casos de gripe suína na França</title>
+     <description>Cruzeiro de luxo registra 60 casos de gripe suína na França</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161470</link>
+     <title>eBand | Jornalismo | Mundo | Papa Bento 16 fecha com gravadora, confirma Vaticano</title>
+     <description>Papa Bento 16 fecha com gravadora, confirma Vaticano</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161397</link>
+     <title>eBand | Jornalismo | Mundo | Manifestação pró-Zelaya acaba em confronto em Honduras</title>
+     <description>Manifestação pró-Zelaya acaba em confronto em Honduras</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161499</link>
+     <title>eBand | Jornalismo | Mundo | Ações do ETA já deixaram 826 mortos </title>
+     <description>Ações do ETA já deixaram 826 mortos </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161466</link>
+     <title>eBand | Jornalismo | Mundo | Suspeitos de assalto a banco no Iraque presos e dinheiro recuperado</title>
+     <description>Suspeitos de assalto a banco no Iraque presos e dinheiro recuperado</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161429</link>
+     <title>eBand | Jornalismo | Mundo | Mianmar adia o veredicto de líder oposicionista</title>
+     <description>Mianmar adia o veredicto de líder oposicionista</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161404</link>
+     <title>eBand | Jornalismo | Mundo | Primeira polêmica racial do governo Obama é resolvida em cervejada</title>
+     <description>Primeira polêmica racial do governo Obama é resolvida em cervejada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudos.asp</link>
+     <title>eBand | Jornalismo | Mundo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/galerias.asp</link>
+     <title>eBand | Jornalismo | Mundo | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2044</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Campeonato de pintura corporal na Áustria </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2033</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | 28 finalistas ao título das Sete Novas Maravilhas da Natureza </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2042</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Destaques de 20 a 25 de julho pelo mundo </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2028</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Eclipse solar deixa Ásia na escuridão; veja fotos </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2017</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Hotéis de luxo sofrem atentados na Indonésia </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/galeria.asp?ID=2006</link>
+     <title>eBand | Jornalismo | Mundo | Galeria |  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161412</link>
+     <title>eBand | Jornalismo | Mundo | Califórnia planeja libertar 27 mil presos para economizar</title>
+     <description>Califórnia planeja libertar 27 mil presos para economizar</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=168&amp;ref=pdt&amp;cnl=jornalismo</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161440</link>
+     <title>eBand | Jornalismo | Economia | Ipea revê previsão de crescimento do PIB para até 1% até dezembro</title>
+     <description>Ipea revê previsão de crescimento do PIB para até 1% até dezembro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161146</link>
+     <title>eBand | Jornalismo | Economia | Inflação do aluguel cai pela quinta vez; alimentos ficam mais caros</title>
+     <description>Inflação do aluguel cai pela quinta vez; alimentos ficam mais caros</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161288</link>
+     <title>eBand | Jornalismo | Economia | Prefeitura de São Paulo oferece mais de 900 vagas no comércio</title>
+     <description>Prefeitura de São Paulo oferece mais de 900 vagas no comércio</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161467</link>
+     <title>eBand | Jornalismo | Economia | Bolsas da Ásia encerram pregão com a maior alta em dez meses</title>
+     <description>Bolsas da Ásia encerram pregão com a maior alta em dez meses</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161449</link>
+     <title>eBand | Jornalismo | Economia | 30% dos brasileiros conseguiram aumento superior ao salário em 2009</title>
+     <description>30% dos brasileiros conseguiram aumento superior ao salário em 2009</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161432</link>
+     <title>eBand | Jornalismo | Economia | Obama diz que PIB americano cairá no segundo trimestre</title>
+     <description>Obama diz que PIB americano cairá no segundo trimestre</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161403</link>
+     <title>eBand | Jornalismo | Economia | Japão tem maior índice de desemprego em seis anos</title>
+     <description>Japão tem maior índice de desemprego em seis anos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudos.asp</link>
+     <title>eBand | Jornalismo | Economia | Plantï¿½o</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=159588</link>
+     <title>eBand | Jornalismo | Economia | Redes sociais substituem classificados e ajudam na busca por emprego</title>
+     <description>Redes sociais substituem classificados e ajudam na busca por emprego</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=159600</link>
+     <title>eBand | Jornalismo | Economia | Saiba onde encontrar vagas de emprego nas redes de relacionamento</title>
+     <description>Saiba onde encontrar vagas de emprego nas redes de relacionamento</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=170&amp;ref=pdt&amp;cnl=jornalismo</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161393</link>
+     <title>eBand | Jornalismo | Cidades | Com mortes em SP, sobe para 63 os óbitos pela gripe suína </title>
+     <description>Com mortes em SP, sobe para 63 os óbitos pela gripe suína </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161396</link>
+     <title>eBand | Jornalismo | Cidades | Rocinha cria mutirão de combate à gripe suína</title>
+     <description>Rocinha cria mutirão de combate à gripe suína</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161167</link>
+     <title>eBand | Jornalismo | Cidades | Mulher é detida com duas mil balas de fuzil em SP</title>
+     <description>Mulher é detida com duas mil balas de fuzil em SP</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161410</link>
+     <title>eBand | Jornalismo | Cidades | Apreendidos 30 mil comprimidos de remédios falsificados em Manaus</title>
+     <description>Apreendidos 30 mil comprimidos de remédios falsificados em Manaus</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161405</link>
+     <title>eBand | Jornalismo | Cidades | Sacoleiros são suspeitos de atear fogo em ônibus no Paraná</title>
+     <description>Sacoleiros são suspeitos de atear fogo em ônibus no Paraná</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudos.asp</link>
+     <title>eBand | Jornalismo | Cidades | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=161374</link>
+     <title>eBand | Jornalismo | Cidades | Ampulheta faz contagem regressiva para Lei Antifumo</title>
+     <description>Ampulheta faz contagem regressiva para Lei Antifumo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/galerias.asp</link>
+     <title>eBand | Jornalismo | Cidades | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2037</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Aconteceu: 19/07 a 24/07 </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=171&amp;ref=pdt&amp;cnl=jornalismo</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/</link>
+     <title>eBand | Esporte | Brasileir&atilde;o 2009</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161067</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Palmeiras bate Flu e dorme na liderança na estreia de Muricy</title>
+     <description>Palmeiras bate Flu e dorme na liderança na estreia de Muricy</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/galerias.asp</link>
+     <title>eBand | Esporte | Basquete | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/galeria.asp?ID=2043</link>
+     <title>eBand | Esporte | Galeria | 14ª rodada do Campeonato Brasileiro </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/galeria.asp?ID=2031</link>
+     <title>eBand | Esporte | Galeria | 13ª rodada do Campeonato Brasileiro </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/galeria.asp?ACT=1&amp;ID=2019</link>
+     <title>eBand | Esporte | Basquete | Galeria |  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/galeria.asp?ID=2009</link>
+     <title>eBand | Esporte | Galeria | 11ª rodada do Campeonato Brasileiro </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/galeria.asp?ID=1997</link>
+     <title>eBand | Esporte | Galeria | 10ª rodada do Campeonato Brasileiro </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161164</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Ronaldo aproveita cirurgia na mão e também tira excesso de gordura</title>
+     <description>Ronaldo aproveita cirurgia na mão e também tira excesso de gordura</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161400</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Flamengo vence Atlético-MG e torcida grita ´fica, Andrade`</title>
+     <description>Flamengo vence Atlético-MG e torcida grita ´fica, Andrade`</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161401</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Avaí goleia Vitória e chega ao quinto triunfo consecutivo</title>
+     <description>Avaí goleia Vitória e chega ao quinto triunfo consecutivo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161399</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Dagoberto brilha e São Paulo vence o Grêmio no Morumbi</title>
+     <description>Dagoberto brilha e São Paulo vence o Grêmio no Morumbi</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161198</link>
+     <title>eBand | Esporte | Brasileirão 2009 | São Paulo tenta manter invencibilidade no Brasileiro contra o Grêmio</title>
+     <description>São Paulo tenta manter invencibilidade no Brasileiro contra o Grêmio</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudo.asp?ID=161189</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Atlético-MG precisa ganhar e quebrar tabu para voltar à liderança</title>
+     <description>Atlético-MG precisa ganhar e quebrar tabu para voltar à liderança</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/brasileirao/conteudos.asp</link>
+     <title>eBand | Esporte | Brasileirão 2009 | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=189&amp;cnl=esportes</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa%2D2010/</link>
+     <title>eBand | Esporte | Copa 2010</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=160559</link>
+     <title>eBand | Esporte | Copa 2010 | Marcelo e Tardelli são as novidades de Dunga para amistoso</title>
+     <description>Marcelo e Tardelli são as novidades de Dunga para amistoso</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=158386</link>
+     <title>eBand | Esporte | Copa 2010 | Fifa libera estádio do Rosário para receber Argentina x Brasil</title>
+     <description>Fifa libera estádio do Rosário para receber Argentina x Brasil</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=160576</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga ignora oscilação e diz que jogadores têm ´espírito de seleção´</title>
+     <description>Dunga ignora oscilação e diz que jogadores têm ´espírito de seleção´</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=155912</link>
+     <title>eBand | Esporte | Band vai exibir todos os jogos  da Copa de 2010</title>
+     <description>Band vai exibir todos os jogos  da Copa de 2010</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=160576</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga ignora oscilação e diz que jogadores têm ´espírito de seleção´</title>
+     <description>Dunga ignora oscilação e diz que jogadores têm ´espírito de seleção´</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=160573</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga justifica as duas novidades na seleção brasileira</title>
+     <description>Dunga justifica as duas novidades na seleção brasileira</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=160559</link>
+     <title>eBand | Esporte | Copa 2010 | Marcelo e Tardelli são as novidades de Dunga para amistoso</title>
+     <description>Marcelo e Tardelli são as novidades de Dunga para amistoso</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=160341</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga convoca nesta terça seleção para amistoso contra a Estônia </title>
+     <description>Dunga convoca nesta terça seleção para amistoso contra a Estônia </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=160280</link>
+     <title>eBand | Esporte | Copa 2010 | Maradona prevê queda de rendimento da seleção brasileira</title>
+     <description>Maradona prevê queda de rendimento da seleção brasileira</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=159413</link>
+     <title>eBand | Esporte | Copa 2010 | Robinho se encontra com Mandela</title>
+     <description>Robinho se encontra com Mandela</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=159041</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga convoca seleção na terça-feira para amistoso contra Estônia </title>
+     <description>Dunga convoca seleção na terça-feira para amistoso contra Estônia </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=158935</link>
+     <title>eBand | Esporte | Copa 2010 | Felipe Melo pretende conquistar títulos pela Juventus</title>
+     <description>Felipe Melo pretende conquistar títulos pela Juventus</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=158703</link>
+     <title>eBand | Esporte | Copa 2010 | Volante Ramires, ex-Cruzeiro, estreia com derrota no Benfica</title>
+     <description>Volante Ramires, ex-Cruzeiro, estreia com derrota no Benfica</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudos.asp</link>
+     <title>eBand | Esporte | Copa 2010 | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/galerias.asp</link>
+     <title>eBand | Esporte | Copa 2010 | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/copa-2010/conteudo.asp?ID=157447</link>
+     <title>eBand | Esporte | Copa 2010 | Fifa vai recrutar 15 mil voluntários para a Copa 2010</title>
+     <description>Fifa vai recrutar 15 mil voluntários para a Copa 2010</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=179&amp;ref=pdt&amp;cnl=esporte</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/pilotos.asp</link>
+     <title>eBand | Esporte | F&oacute;rmula Indy | Pilotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/equipes.asp</link>
+     <title>eBand | Esporte | Fórmula Indy | Equipes</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/classificacao-interna.asp?ID=14</link>
+     <title>eBand | Esporte | Fórmula Indy | Classificação | 01/08/2009 - Grande Prêmio de Kentucky</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159991</link>
+     <title>eBand | Esporte | Fórmula Indy | Will Power vence em Edmonton; Castroneves chega em 2º</title>
+     <description>Will Power vence em Edmonton; Castroneves chega em 2º</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159234</link>
+     <title>eBand | Esporte | Fórmula Indy | Rio de Janeiro sediará etapa no Brasil em 2010, diz prefeito</title>
+     <description>Rio de Janeiro sediará etapa no Brasil em 2010, diz prefeito</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=153757</link>
+     <title>eBand | Esporte | Fórmula Indy | Fórmula Indy terá mudanças aerodinâmicas a partir de 1º de agosto</title>
+     <description>Fórmula Indy terá mudanças aerodinâmicas a partir de 1º de agosto</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=156008</link>
+     <title>eBand | Esporte | Fórmula Indy | Moraes é eleito a surpresa da F-Indy e Kanaan a decepção</title>
+     <description>Moraes é eleito a surpresa da F-Indy e Kanaan a decepção</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=161384</link>
+     <title>eBand | Esporte | Fórmula Indy | F-Indy inova e apresentará carros com ´turbo` no GP de Kentucky</title>
+     <description>F-Indy inova e apresentará carros com ´turbo` no GP de Kentucky</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=160971</link>
+     <title>eBand | Esporte | Fórmula Indy | Após queimaduras, Tony Kanaan está garantido no GP de Kentucky</title>
+     <description>Após queimaduras, Tony Kanaan está garantido no GP de Kentucky</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159980</link>
+     <title>eBand | Esporte | Fórmula Indy | Carro de Kanaan pega fogo e brasileiro abandona prova da F-Indy</title>
+     <description>Carro de Kanaan pega fogo e brasileiro abandona prova da F-Indy</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159884</link>
+     <title>eBand | Esporte | Fórmula Indy | Hélio Castroneves larga em terceiro na etapa de Edmonton da Indy</title>
+     <description>Hélio Castroneves larga em terceiro na etapa de Edmonton da Indy</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159780</link>
+     <title>eBand | Esporte | Fórmula Indy | Castroneves faz melhor tempo no 2º treino livre para GP de Edmonton</title>
+     <description>Castroneves faz melhor tempo no 2º treino livre para GP de Edmonton</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=159395</link>
+     <title>eBand | Esporte | Fórmula Indy | Mario Moraes espera repetir bom resultado em circuito misto</title>
+     <description>Mario Moraes espera repetir bom resultado em circuito misto</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudo.asp?ID=158621</link>
+     <title>eBand | Esporte | Fórmula Indy | Presidente da IRL visita Campinas e Ribeirão; decisão sai em agosto</title>
+     <description>Presidente da IRL visita Campinas e Ribeirão; decisão sai em agosto</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-indy/conteudos.asp</link>
+     <title>eBand | Esporte | Fórmula Indy | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=31&amp;cnl=esportes</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/colunista.asp?ID=58</link>
+     <title>eBand</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/colunista.asp?ID=18</link>
+     <title>eBand</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=A</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=B</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=C</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=D</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=E</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=F</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=G</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=H</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=I</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=J</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=K</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=L</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=M</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=N</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=O</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=P</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=Q</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=R</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=S</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=T</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=U</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=V</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=W</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=X</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=Y</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/busca.asp?q=Z</link>
+     <title>eBand | Entretenimento | Gastronomia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=161450</link>
+     <title>eBand | Entretenimento | Gastronomia | Prato Campeão - Votação dos Chef´s</title>
+     <description>Prato Campeão - Votação dos Chef´s</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=161441</link>
+     <title>eBand | Entretenimento | Gastronomia | Pão integral</title>
+     <description>Pão integral</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160837</link>
+     <title>eBand | Entretenimento | Gastronomia | Prato Campeão - Macarrão ao molho de frango</title>
+     <description>Prato Campeão - Macarrão ao molho de frango</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160829</link>
+     <title>eBand | Entretenimento | Gastronomia | Coxinha cremosa de mandioquinha</title>
+     <description>Coxinha cremosa de mandioquinha</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160505</link>
+     <title>eBand | Entretenimento | Gastronomia | Rocambole de chocolate - Tudo de Bom </title>
+     <description>Rocambole de chocolate - Tudo de Bom </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160501</link>
+     <title>eBand | Entretenimento | Gastronomia | Prato Campeão - Macarrão tudo de bom</title>
+     <description>Prato Campeão - Macarrão tudo de bom</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160491</link>
+     <title>eBand | Entretenimento | Gastronomia | Caldo verde</title>
+     <description>Caldo verde</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160170</link>
+     <title>eBand | Entretenimento | Gastronomia | Torta de damasco diet - Tudo de Bom</title>
+     <description>Torta de damasco diet - Tudo de Bom</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160499</link>
+     <title>eBand | Entretenimento | Gastronomia | Prato Campeão - Macarrão ao molho de azeitonas</title>
+     <description>Prato Campeão - Macarrão ao molho de azeitonas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudo.asp?ID=160112</link>
+     <title>eBand | Entretenimento | Gastronomia | Canjiquinha com costelinha defumada e pinhão</title>
+     <description>Canjiquinha com costelinha defumada e pinhão</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/gastronomia/conteudos.asp</link>
+     <title>eBand | Entretenimento | Gastronomia | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=187&amp;ref=pdt&amp;cnl=entretenimento</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160847</link>
+     <title>eBand | Entrenimento | Celebridades | Fãs querem que Michael Jackson seja indicado ao Prêmio Nobel da Paz</title>
+     <description>Fãs querem que Michael Jackson seja indicado ao Prêmio Nobel da Paz</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160831</link>
+     <title>eBand | Entrenimento | Celebridades | Atriz de Gossip Girl quer virar cantora </title>
+     <description>Atriz de Gossip Girl quer virar cantora </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160967</link>
+     <title>eBand | Entrenimento | Celebridades | Ator de Power Ranger é preso nos EUA</title>
+     <description>Ator de Power Ranger é preso nos EUA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160489</link>
+     <title>eBand | Entrenimento | Celebridades | Camilla Belle confirma término com cantor Joe Jonas</title>
+     <description>Camilla Belle confirma término com cantor Joe Jonas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161500</link>
+     <title>eBand | Entrenimento | Celebridades | Joe Jackson confirma que Rapper é filho secreto do rei do pop </title>
+     <description>Joe Jackson confirma que Rapper é filho secreto do rei do pop </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161293</link>
+     <title>eBand | Entrenimento | Celebridades | Bar Refaeli mostra namorado multi-milionário</title>
+     <description>Bar Refaeli mostra namorado multi-milionário</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161253</link>
+     <title>eBand | Entrenimento | Celebridades | Foto de Ana Paula Arósio vira mural de protestos em Honduras</title>
+     <description>Foto de Ana Paula Arósio vira mural de protestos em Honduras</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudos.asp</link>
+     <title>eBand | Entrenimento | Celebridades | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160850</link>
+     <title>eBand | Entrenimento | Celebridades | Especialistas dizem que Madonna pode sofrer de vigorexia</title>
+     <description>Especialistas dizem que Madonna pode sofrer de vigorexia</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/galerias.asp</link>
+     <title>eBand | Entretenimento | Celebridades | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galeria.asp?ACT=1&amp;ID=1975&amp;CNL=3</link>
+     <title>eBand | Entretenimento | Galeria | Os 12 jovens mais ricos do mundo  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galeria.asp?ACT=1&amp;ID=1937&amp;CNL=3</link>
+     <title>eBand | Entretenimento | Galeria | AS 10 MAIS SEXY DO MUNDO SEGUNDO A REVISTA FHM  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galeria.asp?ACT=1&amp;ID=1892&amp;CNL=3</link>
+     <title>eBand | Entretenimento | Galeria | OS 10 SOLTEIROS MAIS DESEJADOS DO MUNDO  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galeria.asp?ID=1916&amp;CNL=3</link>
+     <title>eBand | Entretenimento | Galeria | MULHERES PARA COMER COM OS OLHOS  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/galeria.asp?ACT=1&amp;ID=1891&amp;CNL=3</link>
+     <title>eBand | Entretenimento | Galeria | VEJA ALGUNS INDICADOS DO TEEN CHOICE AWARDS  </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=174&amp;ref=pdt&amp;cnl=entretenimento</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/anoiteeumacrianca/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/interatividade/</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/comercial/</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/galeria.asp?ID=2055</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=160909</link>
+     <title>Band | Fique de Olho | Programa desvenda os mistérios da cidade de Prado</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/galeria.asp?ID=2053</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=159043</link>
+     <title>Band | Fique de Olho | Band mostra Festa do Peão de Barretos com exclusividade</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=161197</link>
+     <title>Band | Fique de Olho | Band transmite a Copa Sul-Americana</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=159699</link>
+     <title>Band | Fique de Olho | Ping Pong: saiba mais sobre Patricia Maldonado </title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/tv/?PG=1</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=161245</link>
+     <title>Band | Fique de Olho | Otávio Mesquita entrevista o mestre Maurício de Souza</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=161286</link>
+     <title>Band | Fique de Olho | Terceiro Tempo acompanha o futebol neste domingo</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/fiquedeolho/conteudo.asp?ID=161337</link>
+     <title>Band | Fique de Olho | Dúvida de familia termina com teste de DNA</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/programacao/</link>
+     <title>Band | Programação</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/programacao/?REGIAO=sp1</link>
+     <title>Band | Programação</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161457</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161021</link>
+     <title>eBand | Jornalismo | Economia | Comércio ajuda a reduzir desemprego em São Paulo, diz pesquisa</title>
+     <description>Comércio ajuda a reduzir desemprego em São Paulo, diz pesquisa</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161494</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161161</link>
+     <title>eBand | Jornalismo | Economia | Produção industrial do Japão registra maior avanço em 56 anos</title>
+     <description>Produção industrial do Japão registra maior avanço em 56 anos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161509</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161471</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161184</link>
+     <title>eBand | Jornalismo | Brasil | Ampliação do Bolsa Família poderá causar impacto no orçamento</title>
+     <description>Ampliação do Bolsa Família poderá causar impacto no orçamento</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=160249</link>
+     <title>eBand | Jornalismo | Brasil | Bolsa Família tem efeito eleitoral maior que desempenho da economia, diz pesquisa</title>
+     <description>Bolsa Família tem efeito eleitoral maior que desempenho da economia, diz pesquisa</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161330</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=155737</link>
+     <title>eBand | Entrenimento | Celebridades | Parque da Mônica terá que sair do shopping Eldorado, em São Paulo</title>
+     <description>Parque da Mônica terá que sair do shopping Eldorado, em São Paulo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/anoiteeumacrianca/conteudo.asp?ID=161314</link>
+     <title>Band | A Noite é Uma Criança | Otávio Mesquita entrevista o mestre Maurício de Sousa</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161218</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161358</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/</link>
+     <title>eBand | Esporte | Outros Esportes</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161378</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=158238</link>
+     <title>eBand | Esporte | Outros Esportes | Mike Tyson revela nunca ter sido feliz no boxe</title>
+     <description>Mike Tyson revela nunca ter sido feliz no boxe</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=157947</link>
+     <title>eBand | Esporte | Outros Esportes | Neco Padaratz vence brasileiro e conquista título em Saquarema</title>
+     <description>Neco Padaratz vence brasileiro e conquista título em Saquarema</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=154515</link>
+     <title>eBand | Esporte | Outros Esportes | Surfe: Slater bate Mineirinho na final do WCT de Imbituba</title>
+     <description>Surfe: Slater bate Mineirinho na final do WCT de Imbituba</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=154268</link>
+     <title>eBand | Esporte | Outros Esportes | Skatista Bob Burnquist protagoniza filme em 3D sobre X Games</title>
+     <description>Skatista Bob Burnquist protagoniza filme em 3D sobre X Games</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudo.asp?ID=152891</link>
+     <title>eBand | Esporte | Outros Esportes | WCT de surfe é o principal evento do ano na turística Imbituba</title>
+     <description>WCT de surfe é o principal evento do ano na turística Imbituba</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/outros-esportes/conteudos.asp</link>
+     <title>eBand | Esporte | Outros Esportes | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160908</link>
+     <title>eBand | Entrenimento | Celebridades | Com gafe, gravidez de Gisele Bündchen é confirmada</title>
+     <description>Com gafe, gravidez de Gisele Bündchen é confirmada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161360</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=153625</link>
+     <title>eBand | Entrenimento | Celebridades | Conheça algumas Angels da grife Victoria´s Secret</title>
+     <description>Conheça algumas Angels da grife Victoria´s Secret</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=160195</link>
+     <title>eBand | Entrenimento | Celebridades | Gisele Bündchen vai virar desenho animado</title>
+     <description>Gisele Bündchen vai virar desenho animado</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=158390</link>
+     <title>eBand | Entrenimento | Celebridades | Gisele Bündchen completa 29 anos, casada e perto de ser mamãe</title>
+     <description>Gisele Bündchen completa 29 anos, casada e perto de ser mamãe</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=155231</link>
+     <title>eBand | Entrenimento | Celebridades | Brasileiros estão na lista dos famosos mais jovens e ricos do mundo</title>
+     <description>Brasileiros estão na lista dos famosos mais jovens e ricos do mundo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161517</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161520</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=161128</link>
+     <title>eBand | Esporte | Tênis | Marcos Daniel vence e está nas quartas de final de torneio na Suíça</title>
+     <description>Marcos Daniel vence e está nas quartas de final de torneio na Suíça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=160936</link>
+     <title>eBand | Esporte | Tênis | Bellucci vence e avança às oitavas na Suíça</title>
+     <description>Bellucci vence e avança às oitavas na Suíça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=160427</link>
+     <title>eBand | Esporte | Tênis | Thomaz Bellucci estreia em torneio na Suíça nesta terça-feira</title>
+     <description>Thomaz Bellucci estreia em torneio na Suíça nesta terça-feira</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=160167</link>
+     <title>eBand | Esporte | Tênis | Safina mantém liderança no ranking da WTA</title>
+     <description>Safina mantém liderança no ranking da WTA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=160049</link>
+     <title>eBand | Esporte | Tênis | Davydenko sobe três posições no ranking e Federer segue líder </title>
+     <description>Davydenko sobe três posições no ranking e Federer segue líder </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudos.asp</link>
+     <title>eBand | Esporte | Tênis | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161518</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=160980</link>
+     <title>eBand | Jornalismo | Brasil | Renan diz que PMDB vai ao Conselho de Ética contra tucano </title>
+     <description>Renan diz que PMDB vai ao Conselho de Ética contra tucano </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161212</link>
+     <title>eBand | Jornalismo | Brasil | Tucano afirma que retaliação do PMDB é quebra de decoro</title>
+     <description>Tucano afirma que retaliação do PMDB é quebra de decoro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161157</link>
+     <title>eBand | Jornalismo | Brasil | Membro do Conselho de Ética, senador tucano terá de devolver R$ 210 mil</title>
+     <description>Membro do Conselho de Ética, senador tucano terá de devolver R$ 210 mil</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161115</link>
+     <title>eBand | Jornalismo | Brasil | Conselho de Ética do Senado tem 70% dos membros com´´ficha suja``</title>
+     <description>Conselho de Ética do Senado tem 70% dos membros com´´ficha suja``</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=161125</link>
+     <title>eBand | Entrenimento | Celebridades | Jude Law engravida ex e será pai pela quarta vez</title>
+     <description>Jude Law engravida ex e será pai pela quarta vez</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161514</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161513</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161512</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=161028</link>
+     <title>eBand | Jornalismo | Brasil | Envolvidos na máfia das passagens podem sair impunes</title>
+     <description>Envolvidos na máfia das passagens podem sair impunes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=160445</link>
+     <title>eBand | Jornalismo | Brasil | STF decide se divulga relatório de passagens aéreas nesta terça</title>
+     <description>STF decide se divulga relatório de passagens aéreas nesta terça</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=159502</link>
+     <title>eBand | Jornalismo | Brasil | Câmara processa 44 funcionários por uso irregular de passagens aéreas</title>
+     <description>Câmara processa 44 funcionários por uso irregular de passagens aéreas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=152004</link>
+     <title>eBand | Entretenimento | Sarah Jessica Parker é mamãe novamente</title>
+     <description>Sarah Jessica Parker é mamãe novamente</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161510</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/conteudo.asp?ID=153460</link>
+     <title>eBand | Entretenimento | Atriz Sarah Jessica Parker apresenta as novas integrantes da família</title>
+     <description>Atriz Sarah Jessica Parker apresenta as novas integrantes da família</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/celebridades/conteudo.asp?ID=155188</link>
+     <title>eBand | Entrenimento | Celebridades | Sarah Jessica Parker vai fazer nova série sobre quarteto glamuroso</title>
+     <description>Sarah Jessica Parker vai fazer nova série sobre quarteto glamuroso</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161502</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/</link>
+     <title>eBand | Jornalismo | Tecnologia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161505</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161490</link>
+     <title>eBand | Jornalismo | Tecnologia | Super hacker inglês perde outro recurso contra extradição para EUA</title>
+     <description>Super hacker inglês perde outro recurso contra extradição para EUA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161481</link>
+     <title>eBand | Jornalismo | Tecnologia | Motorola registra lucro e planeja aparelhos com o Android</title>
+     <description>Motorola registra lucro e planeja aparelhos com o Android</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161351</link>
+     <title>eBand | Jornalismo | Tecnologia | Smartphone da Samsung com Android já pode ser vendido no Brasil</title>
+     <description>Smartphone da Samsung com Android já pode ser vendido no Brasil</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161291</link>
+     <title>eBand | Jornalismo | Tecnologia | Pirate Bay recebe ordem judicial para cessar tráfego na Holanda</title>
+     <description>Pirate Bay recebe ordem judicial para cessar tráfego na Holanda</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161254</link>
+     <title>eBand | Jornalismo | Tecnologia | Guitar Hero 5 tem lista completa de músicas divulgada</title>
+     <description>Guitar Hero 5 tem lista completa de músicas divulgada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161227</link>
+     <title>eBand | Jornalismo | Tecnologia | Windows 7 já possui versões piratas em sites de troca de arquivos</title>
+     <description>Windows 7 já possui versões piratas em sites de troca de arquivos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudo.asp?ID=161204</link>
+     <title>eBand | Jornalismo | Tecnologia | Apple lança novo Time Capsule de 2 TB</title>
+     <description>Apple lança novo Time Capsule de 2 TB</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/tecnologia/conteudos.asp</link>
+     <title>eBand | Jornalismo | Tecnologia | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/radios/conteudo.asp?ID=124953</link>
+     <title>Nova versão de Guitar hero lhe permite ser um DJ</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=161506</link>
+     <title>eBand | Esporte | Fórmula 1 | Médico diz que Massa voltará ao Brasil na segunda em jato particular</title>
+     <description>Médico diz que Massa voltará ao Brasil na segunda em jato particular</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/cinema/conteudo.asp?ID=161495</link>
+     <title>eBand | Entretenimento | Cinema | Cerimônia do Emmy será mais rápida e dinâmica</title>
+     <description>Cerimônia do Emmy será mais rápida e dinâmica</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/musica/conteudo.asp?ID=161486</link>
+     <title>eBand | Entrenimento | Música | Men At Work é acusado de plágio depois de 26 anos</title>
+     <description>Men At Work é acusado de plágio depois de 26 anos</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/musica/conteudo.asp?ID=161475</link>
+     <title>eBand | Entrenimento | Música | The Killers confirma show no Brasil em novembro</title>
+     <description>The Killers confirma show no Brasil em novembro</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/entretenimento/cinema/conteudo.asp?ID=161372</link>
+     <title>eBand | Entretenimento | Cinema | Estreia: Filme traz novidades e entrevistas inéditas de Kurt Cobain</title>
+     <description>Estreia: Filme traz novidades e entrevistas inéditas de Kurt Cobain</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=1</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=2</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=3</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=4</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=5</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=6</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=7</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=8</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=9</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/conteudos.asp?PDT=&amp;P=10</link>
+     <title>eBand | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2051</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Chuva causa estragos no Sul e Sudeste do país </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2023</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Denúncias envolvendo Sarney </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galeria.asp?ID=2022</link>
+     <title>eBand | Jornalismo | Galeria de Fotos | Imprensa mundial registrou chegada do homem à Lua </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galerias.asp?p=1</link>
+     <title>eBand | Jornalismo | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galerias.asp?p=2</link>
+     <title>eBand | Jornalismo | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/galerias.asp?p=3</link>
+     <title>eBand | Jornalismo | Galerias de Fotos</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=23</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | ETA: 50 anos de luta violenta pela independência</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=22</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Biodiversidade no mundo</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=21</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Incêndios</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=20</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Fretados em São Paulo</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=16</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Ciência</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=15</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Gripe Suína</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=13</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Endeavour </title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=12</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Indonésia</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/infografico.asp?ID=11</link>
+     <title>eBand | Jornalismo | Infogr&aacute;fico | Apollo 11</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/boatarde/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/microblog/</link>
+     <title>eBand | Jornalismo</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/brasilurgente/sobre.asp?ID=14</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/brasilurgente/sobre.asp?ID=15</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/brasilurgente/sobre.asp?id=83</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/cat/CVINSEN1.asp</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/canallivre/sobre.asp?ID=24</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/canallivre/conteudos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/canallivre/sobre.asp?id=160</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/e24/sobre.asp?id=678</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/e24/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldaband/sobre.asp?ID=27</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldaband/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldaband/sobre.asp?ID=214</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldaband/sobre.asp?ID=28</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldanoite/sobre.asp?ID=29</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldanoite/sobre.asp?ID=31</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldanoite/sobre.asp?ID=33</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornaldanoite/conteudos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/primeirojornal/sobre.asp?ID=64</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/primeirojornal/conteudos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/primeirojornal/videos.asp?ID=318</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/primeirojornal/sobre.asp?id=132</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/spacontece/sobre.asp?id=253</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/spacontece/videos.asp</link>
+     <title>Band</title>
+     <description>Acompanhe a Tv Bandeirantes</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161277</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=158069</link>
+     <title>eBand | Jornalismo | Cidades | Laudo aponta que boxeador foi morto por enforcamento em Pernambuco</title>
+     <description>Laudo aponta que boxeador foi morto por enforcamento em Pernambuco</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=156240</link>
+     <title>eBand | Jornalismo | Cidades | Viúva de boxeador canadense nega ter matado o marido</title>
+     <description>Viúva de boxeador canadense nega ter matado o marido</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/cidades/conteudo.asp?ID=156576</link>
+     <title>eBand | Jornalismo | Cidades | Polícia ouve testemunhas do caso do pugilista morto em Pernambuco</title>
+     <description>Polícia ouve testemunhas do caso do pugilista morto em Pernambuco</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/amador/conteudo.asp?ID=156140</link>
+     <title>eBand | Esporte | Amador | Brasileira é suspeita de matar o marido boxeador </title>
+     <description>Brasileira é suspeita de matar o marido boxeador </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudo.asp?ID=161517</link>
+     <title>eBand | Jornalismo | Economia americana recua pela quarta vez e cai 1%</title>
+     <description>Economia americana recua pela quarta vez e cai 1%</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161498</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=156189</link>
+     <title>eBand | Jornalismo | Brasil | Políticos poderão se candidatar sem ter contas aprovadas</title>
+     <description>Políticos poderão se candidatar sem ter contas aprovadas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=156138</link>
+     <title>eBand | Jornalismo | Brasil | Reforma eleitoral proíbe crítica a candidatos com multa de R$ 30 mil</title>
+     <description>Reforma eleitoral proíbe crítica a candidatos com multa de R$ 30 mil</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/brasil/conteudo.asp?ID=155577</link>
+     <title>eBand | Jornalismo | Brasil | Deputados aprovam texto base da reforma eleitoral</title>
+     <description>Deputados aprovam texto base da reforma eleitoral</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=161153</link>
+     <title>eBand | Jornalismo | Mundo | Novo atentado deixa dois mortos na Espanha</title>
+     <description>Novo atentado deixa dois mortos na Espanha</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161499</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/mundo/conteudo.asp?ID=160983</link>
+     <title>eBand | Jornalismo | Mundo | Atentado com carro-bomba deixa 65 pessoas feridas na Espanha</title>
+     <description>Atentado com carro-bomba deixa 65 pessoas feridas na Espanha</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161490</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=3</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=5</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=6</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=7</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=9</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/conteudos.asp?PDT=0&amp;P=10</link>
+     <title>eBand | Jornalismo | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161306</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161348</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/jornalismo/economia/conteudo.asp?ID=161209</link>
+     <title>eBand | Jornalismo | Economia | Multas da lei do SAC somam R$ 10 milhões; 20 empresas são punidas</title>
+     <description>Multas da lei do SAC somam R$ 10 milhões; 20 empresas são punidas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161292</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/imprimir.asp?ID=161317</link>
+     <title>Band.com.br</title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161110</link>
+     <title>eBand | Esporte | Futebol Internacional | Elano deixa o Manchester City para jogar pelo Galatasaray</title>
+     <description>Elano deixa o Manchester City para jogar pelo Galatasaray</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=160654</link>
+     <title>eBand | Esporte | Futebol Internacional | Diego estreia com gol e Juventus vence pela Copa da Paz</title>
+     <description>Diego estreia com gol e Juventus vence pela Copa da Paz</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161005</link>
+     <title>eBand | Esporte | Futebol Internacional | Bayern goleia Milan e Leonardo amarga quarta derrota consecutiva</title>
+     <description>Bayern goleia Milan e Leonardo amarga quarta derrota consecutiva</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=160490</link>
+     <title>eBand | Esporte | Futebol Internacional | André Santos estreia com gol e vitória pelo Fenerbhaçe em amistoso</title>
+     <description>André Santos estreia com gol e vitória pelo Fenerbhaçe em amistoso</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161379</link>
+     <title>eBand | Esporte | Futebol Internacional | Barcelona coloca multa rescisória de Messi em R$ 400 milhões</title>
+     <description>Barcelona coloca multa rescisória de Messi em R$ 400 milhões</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161255</link>
+     <title>eBand | Esporte | Futebol Internacional | Kaká: Ronaldo é como um pai e Zidane um exemplo a ser seguido</title>
+     <description>Kaká: Ronaldo é como um pai e Zidane um exemplo a ser seguido</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161152</link>
+     <title>eBand | Esporte | Futebol Internacional | Kaká não é relacionado no Real Madrid para enfrentar a Juventus</title>
+     <description>Kaká não é relacionado no Real Madrid para enfrentar a Juventus</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=161024</link>
+     <title>eBand | Esporte | Futebol Internacional | Porto e Aston Villa avançam para semifinal da Copa da Paz</title>
+     <description>Porto e Aston Villa avançam para semifinal da Copa da Paz</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=160979</link>
+     <title>eBand | Esporte | Futebol Internacional | Aderson marca 1º gol pelo Manchester United na vitória sobre Boca</title>
+     <description>Aderson marca 1º gol pelo Manchester United na vitória sobre Boca</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=160711</link>
+     <title>eBand | Esporte | Futebol Internacional | Keirrison faz juras de amor ao Benfica, mas já pensa no Barcelona</title>
+     <description>Keirrison faz juras de amor ao Benfica, mas já pensa no Barcelona</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudos.asp</link>
+     <title>eBand | ESPORTE | Futebol Internacional | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=156637</link>
+     <title>eBand | Esporte | Futebol Internacional | Felipe Melo deixa Fiorentina para jogar pela Juventus</title>
+     <description>Felipe Melo deixa Fiorentina para jogar pela Juventus</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/futebol-internacional/conteudo.asp?ID=156614</link>
+     <title>eBand | Esporte | Futebol Internacional | Imprensa diz que agentes de Luís Fabiano se reúnem com Milan</title>
+     <description>Imprensa diz que agentes de Luís Fabiano se reúnem com Milan</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=190&amp;ref=pdt&amp;cnl=esporte</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/</link>
+     <title>eBand | Esporte | Libertadores</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/conteudo.asp?ID=157210</link>
+     <title>eBand | Esporte | Estudiantes vence Cruzeiro e conquista o tetra da Libertadores</title>
+     <description>Estudiantes vence Cruzeiro e conquista o tetra da Libertadores</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157219</link>
+     <title>eBand | Esporte | Libertadores | Boselli, do Estudiantes, é o artilheiro da Copa Libertadores</title>
+     <description>Boselli, do Estudiantes, é o artilheiro da Copa Libertadores</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157213</link>
+     <title>eBand | Esporte | Libertadores | Com o vice, Adilson Batista não teme  ´dança dos treinadores´</title>
+     <description>Com o vice, Adilson Batista não teme  ´dança dos treinadores´</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157214</link>
+     <title>eBand | Esporte | Libertadores | Abatido, Ramires se despede do Cruzeiro e segue para o Benfica</title>
+     <description>Abatido, Ramires se despede do Cruzeiro e segue para o Benfica</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157216</link>
+     <title>eBand | Esporte | Libertadores | Destaque na final, Verón repete a história do pai com título</title>
+     <description>Destaque na final, Verón repete a história do pai com título</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=158691</link>
+     <title>eBand | Esporte | Libertadores | Conmebol divulga datas da fase preliminar da Copa Sul-Americana</title>
+     <description>Conmebol divulga datas da fase preliminar da Copa Sul-Americana</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157324</link>
+     <title>eBand | Esporte | Libertadores | Imprensa argentina exalta coragem do Estudiantes em tetra da Libertadores</title>
+     <description>Imprensa argentina exalta coragem do Estudiantes em tetra da Libertadores</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157218</link>
+     <title>eBand | Esporte | Libertadores | Argentinos aumentam para 9 diferença de títulos contra brasileiros</title>
+     <description>Argentinos aumentam para 9 diferença de títulos contra brasileiros</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157210</link>
+     <title>eBand | Esporte | Libertadores | Estudiantes vence Cruzeiro e conquista o tetra da Libertadores</title>
+     <description>Estudiantes vence Cruzeiro e conquista o tetra da Libertadores</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudos.asp</link>
+     <title>eBand | Esporte | Libertadores | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/libertadores/conteudo.asp?ID=157196</link>
+     <title>eBand | Esporte | Libertadores | Dunga acompanha decisão da Libertadores no Mineirão</title>
+     <description>Dunga acompanha decisão da Libertadores no Mineirão</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=178&amp;ref=pdt&amp;cnl=esporte</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=160573</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga justifica as duas novidades na seleção brasileira</title>
+     <description>Dunga justifica as duas novidades na seleção brasileira</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=160341</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga convoca nesta terça seleção para amistoso contra a Estônia </title>
+     <description>Dunga convoca nesta terça seleção para amistoso contra a Estônia </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=160280</link>
+     <title>eBand | Esporte | Copa 2010 | Maradona prevê queda de rendimento da seleção brasileira</title>
+     <description>Maradona prevê queda de rendimento da seleção brasileira</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=159413</link>
+     <title>eBand | Esporte | Copa 2010 | Robinho se encontra com Mandela</title>
+     <description>Robinho se encontra com Mandela</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=159041</link>
+     <title>eBand | Esporte | Copa 2010 | Dunga convoca seleção na terça-feira para amistoso contra Estônia </title>
+     <description>Dunga convoca seleção na terça-feira para amistoso contra Estônia </description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=158935</link>
+     <title>eBand | Esporte | Copa 2010 | Felipe Melo pretende conquistar títulos pela Juventus</title>
+     <description>Felipe Melo pretende conquistar títulos pela Juventus</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudo.asp?ID=158703</link>
+     <title>eBand | Esporte | Copa 2010 | Volante Ramires, ex-Cruzeiro, estreia com derrota no Benfica</title>
+     <description>Volante Ramires, ex-Cruzeiro, estreia com derrota no Benfica</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/conteudos.asp</link>
+     <title>eBand | Esporte | Copa 2010 | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/Copa-2010/galerias.asp</link>
+     <title>eBand | Esporte | Copa 2010 | Galerias</title>
+     <description>Acompanhe as últimas notícias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=159946</link>
+     <title>eBand | Esporte | Fórmula 1 | FIA suspende Renault do GP da Europa; escuderia vai recorrer</title>
+     <description>FIA suspende Renault do GP da Europa; escuderia vai recorrer</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=159947</link>
+     <title>eBand | Esporte | Fórmula 1 | Foi um fim de semana para esquecer, diz Barrichello</title>
+     <description>Foi um fim de semana para esquecer, diz Barrichello</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=159913</link>
+     <title>eBand | Esporte | Fórmula 1 | Hamilton vence GP da Hungria; brasileiros vão mal</title>
+     <description>Hamilton vence GP da Hungria; brasileiros vão mal</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=161506</link>
+     <title>eBand | Esporte | Fórmula 1 | Médico diz que Massa voltará ao Brasil na segunda em jato particular</title>
+     <description>Médico diz que Massa voltará ao Brasil na segunda em jato particular</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=161463</link>
+     <title>eBand | Esporte | Fórmula 1 | Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</title>
+     <description>Schumacher faz primeiro treino com a Ferrari em sua volta às pistas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=161406</link>
+     <title>eBand | Esporte | Fórmula 1 | Massa deve voltar ao Brasil no domingo</title>
+     <description>Massa deve voltar ao Brasil no domingo</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=161176</link>
+     <title>eBand | Esporte | Fórmula 1 | Massa reage com bom humor sobre Schumacher na Ferrari</title>
+     <description>Massa reage com bom humor sobre Schumacher na Ferrari</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160904</link>
+     <title>eBand | Esporte | Fórmula 1 | Ferrari confirma Schumacher como substituto de Felipe Massa</title>
+     <description>Ferrari confirma Schumacher como substituto de Felipe Massa</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160852</link>
+     <title>eBand | Esporte | Fórmula 1 | Sem previsão de alta, Massa deixa UTI e caminha no quarto</title>
+     <description>Sem previsão de alta, Massa deixa UTI e caminha no quarto</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160826</link>
+     <title>eBand | Esporte | Fórmula 1 | Ferrari diz que Felipe Massa pode deixar UTI hoje</title>
+     <description>Ferrari diz que Felipe Massa pode deixar UTI hoje</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160797</link>
+     <title>eBand | Esporte | Fórmula 1 | Médico declara que Felipe Massa tem inflamação biliar</title>
+     <description>Médico declara que Felipe Massa tem inflamação biliar</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160789</link>
+     <title>eBand | Esporte | Fórmula 1 | FIA lamenta a decisão da BMW de sair da Fórmula 1</title>
+     <description>FIA lamenta a decisão da BMW de sair da Fórmula 1</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudo.asp?ID=160778</link>
+     <title>eBand | Esporte | Fórmula 1 | BMW anuncia a saída da Fórmula 1 no final da temporada</title>
+     <description>BMW anuncia a saída da Fórmula 1 no final da temporada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula%2D1/conteudos.asp</link>
+     <title>eBand | ESPORTE | Fórmula 1 | Plantão</title>
+     <description>Acompanhe as Ãºltimas notÃ­cias de jornalismo, entretenimento, esportes,</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=160904</link>
+     <title>eBand | Esporte | Fórmula 1 | Ferrari confirma Schumacher como substituto de Felipe Massa</title>
+     <description>Ferrari confirma Schumacher como substituto de Felipe Massa</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=160360</link>
+     <title>eBand | Esporte | Fórmula 1 | FIA fará investigação sobre acidentes com peças de carros</title>
+     <description>FIA fará investigação sobre acidentes com peças de carros</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/formula-1/conteudo.asp?ID=159185</link>
+     <title>eBand | Esporte | Fórmula 1 | Red Bull renova contrato de Mark Webber por mais uma temporada</title>
+     <description>Red Bull renova contrato de Mark Webber por mais uma temporada</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/_inc_design/inc_res_enquete.asp?ID=180&amp;ref=pdt&amp;cnl=esporte</link>
+     <title></title>
+     
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=158247</link>
+     <title>eBand | Esporte | Tênis | Nadal começa a treinar para torneios em quadras rápidas</title>
+     <description>Nadal começa a treinar para torneios em quadras rápidas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=159557</link>
+     <title>eBand | Esporte | Tênis | Roger Federer anuncia nascimento de suas filhas</title>
+     <description>Roger Federer anuncia nascimento de suas filhas</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.band.com.br/esporte/tenis/conteudo.asp?ID=159034</link>
+     <title>eBand | Esporte | Tênis | Marcos Daniel e Thiago Alves são confirmados no Aberto dos EUA</title>
+     <description>Marcos Daniel e Thiago Alves são confirmados no Aberto dos EUA</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
