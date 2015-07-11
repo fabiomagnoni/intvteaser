@@ -1,0 +1,27 @@
+{
+  "name": "intvteaser",
+  "version": "1.0.0",
+  "description": "página teaser da intv",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiomagnoni/intvteaser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiomagnoni/intvteaser/issues"
+  },
+  "homepage": "https://github.com/fabiomagnoni/intvteaser#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-config": "^0.17.2"
+  }
+}
