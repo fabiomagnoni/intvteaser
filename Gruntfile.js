@@ -17,10 +17,27 @@ module.exports = function(grunt) {
             //     }
             // }
         },
+        copy: {
+            bootstrap: {
+                src: 'bower_components/bootstrap/dist/css/bootstrap.min.css',
+                dest: 'vendors/css/bootstrap.min.css'
+            },
+            jquery: {
+                src: 'bower_components/jquery/dist/jquery.min.js',
+                dest: 'vendors/js/jquery.min.js'
+            },
+            slider: {
+                src: 'bower_components/jssor-slider/js/jssor.slider.mini.js',
+                dest: 'vendors/js/jssor.slider.mini.js'
+            }
+        },
         watch: {
             styles: {
-                files: 'less/*.less',
-                tasks: ['less'],
+                files: [
+                    'less/*.less',
+                    'js/**/*.js'
+                ],
+                tasks: ['less', 'copy'],
                 options: {
                     spawn: true
                 }
