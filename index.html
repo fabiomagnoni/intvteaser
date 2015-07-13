@@ -9,10 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- Custom CSS -->
-        <link href="css/widgets.css" rel="stylesheet">
+        <link href="vendors/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- Custom Fonts -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -38,6 +35,14 @@
                   <!-- <span class="light">INTV BRASIL</span> -->
                   <img src="img/intv.png" alt="INTV Brasil">
                 </a>
+            </div>
+
+            <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px;">
+                <!-- Slides Container -->
+                <div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 300px;">
+                    <div><img u="image" src="image1.jpg" /></div>
+                    <div><img u="image" src="image2.jpg" /></div>
+                </div>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling
@@ -75,6 +80,7 @@
             </div>
         </div>
     </header>
-    <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="vendors/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="vendors/js/supersized.core.3.2.1.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/carrossel.js" type="text/javascript" charset="utf-8"></script>
 </html>

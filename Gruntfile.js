@@ -17,10 +17,23 @@ module.exports = function(grunt) {
             //     }
             // }
         },
+        copy: {
+            styles: {
+                src: 'bower_components/bootstrap/dist/css/bootstrap.min.css',
+                dest: 'vendors/css/bootstrap.min.css'
+            },
+            scripts: {
+                src: 'bower_components/jquery/dist/jquery.min.js',
+                dest: 'vendors/js/jquery.min.js'
+            }
+        },
         watch: {
             styles: {
-                files: 'less/*.less',
-                tasks: ['less'],
+                files: [
+                    'less/*.less',
+                    'js/**/*.js'
+                ],
+                tasks: ['less', 'copy'],
                 options: {
                     spawn: true
                 }
